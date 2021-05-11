@@ -1,6 +1,6 @@
 <template>
 <div>
- <!-- <router-view /> -->
+<router-view />
 <div>This is DDXP TestPage</div>
 </div>
 </template>
