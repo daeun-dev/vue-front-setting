@@ -8,6 +8,9 @@ module.exports = {
       runtimeOnly: false,
       compositionOnly: false,
       fullInstall: true
-    }
-  }
+    },
+    cordovaPath: 'src-cordova'
+  },
+
+  publicPath: ''
 }
